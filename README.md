@@ -1,4 +1,4 @@
-# 👋 Hi there!
+# 👋 Welcome, curious minds!
 
 ### 🎓 MSc Robotics Engineering  
 **🤖 Focus:** Social Robots & AI  
