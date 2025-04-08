@@ -1,7 +1,7 @@
 # 👋 Welcome, curious minds!
 
 ### 🎓 MSc Robotics Engineering  
-**🤖 Focus:** Cognitivr Robotics & AI
+**🤖 Focus:** Cognitive Robotics & AI
 
 ---
 
