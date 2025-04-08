@@ -1,8 +1,7 @@
 # 👋 Welcome, curious minds!
 
 ### 🎓 MSc Robotics Engineering  
-**🤖 Focus:** Social Robots & AI  
-**🧠 Passionate About:** Cognitive Science & Human-Robot Interaction (HRI)
+**🤖 Focus:** Cognitivr Robotics & AI
 
 ---
 
