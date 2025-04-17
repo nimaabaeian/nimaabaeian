@@ -1,15 +1,9 @@
 # 👋 Welcome, curious minds!
 
 ### 🎓 MSc Robotics Engineering  
-**🤖 Focus:** Cognitive Robotics & AI
+**🤖 Focus:** Machine Learning • Cognitive Architecture Design
 
-I’m all about bridging cognitive science and robotics—where machines go beyond data-crunching to learn, sense, and collaborate in real-time. My work revolves around building systems that:
-
-- **Continuously learn** and adapt on the fly  
-- **Store and recall** information with ease  
-- **Interact naturally** with people and their environment  
-
-I love watching these systems evolve. Every improvement proves we're not just making tools, but **true collaborators**. My ultimate goal is a future where robots fit seamlessly into daily life, strengthening our routines and relationships by growing **alongside us**, rather than just for us.
+I'm an MSc Robotics engineer primarily focused on machine learning and deeply interested in designing cognitive architectures. My expertise lies in developing intelligent systems that allow robots to perceive, learn from experience, and adapt naturally to their environments. My ultimate goal is a future where robots fit seamlessly into daily life, strengthening our routines and relationships by growing **alongside us**, rather than just for us.
 
 ---
 
