@@ -1,8 +1,8 @@
 <div align="center">
 
-## N I M A &nbsp; A B A E I A N
+# N I M A &nbsp; A B A E I A N
 
-<sub><sup>R O B O T I C S &nbsp; E N G I N E E R &nbsp; · &nbsp; P E R C E P T I O N - D R I V E N &nbsp; R O B O T I C &nbsp; S Y S T E M S</sup></sub>
+R O B O T I C S &nbsp; E N G I N E E R &nbsp; · &nbsp; P E R C E P T I O N - D R I V E N &nbsp; R O B O T I C &nbsp; S Y S T E M S
 
 <br>
 
@@ -11,27 +11,27 @@
 
 ---
 
-<sub><sup>T E C H &nbsp; S T A C K</sup></sub>
+T E C H &nbsp; S T A C K
 
 <br>
 
 <table>
 <tr>
-<td align="center" width="25%">
+<td align="center" width="27%">
 <img src="https://img.shields.io/badge/──────────────-2563EB?style=for-the-badge&label=&labelColor=2563EB" height="3"/><br>
-<sub><sup>L A N G U A G E S</sup></sub>
+L A N G U A G E S
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/──────────────-DC2626?style=for-the-badge&label=&labelColor=DC2626" height="3"/><br>
-<sub><sup>M L &nbsp;/&nbsp; C V</sup></sub>
+M L &nbsp;/&nbsp; C V
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/──────────────-16A34A?style=for-the-badge&label=&labelColor=16A34A" height="3"/><br>
-<sub><sup>R O B O T I C S</sup></sub>
+R O B O T I C S
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/──────────────-D97706?style=for-the-badge&label=&labelColor=D97706" height="3"/><br>
-<sub><sup>T O O L S</sup></sub>
+T O O L S
 </td>
 </tr>
 <tr>
