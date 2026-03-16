@@ -36,30 +36,30 @@ T O O L S
 </tr>
 <tr>
 <td align="center">
-<img src="https://img.shields.io/badge/Python-1e3a5f?style=for-the-badge&logo=python&logoColor=93C5FD" /><br>
-<img src="https://img.shields.io/badge/C++-1e3a5f?style=for-the-badge&logo=c%2B%2B&logoColor=93C5FD" /><br>
-<img src="https://img.shields.io/badge/Bash-1e3a5f?style=for-the-badge&logo=gnu-bash&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/PyTorch-450a0a?style=for-the-badge&logo=pytorch&logoColor=FCA5A5" /><br>
-<img src="https://img.shields.io/badge/TensorFlow-451a03?style=for-the-badge&logo=tensorflow&logoColor=FCD34D" /><br>
-<img src="https://img.shields.io/badge/OpenCV-450a0a?style=for-the-badge&logo=opencv&logoColor=FCA5A5" /><br>
-<img src="https://img.shields.io/badge/MediaPipe-1e3a5f?style=for-the-badge&logo=google&logoColor=93C5FD" /><br>
-<img src="https://img.shields.io/badge/Hugging%20Face-451a03?style=for-the-badge&logo=huggingface&logoColor=FCD34D" />
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/ROS2-052e16?style=for-the-badge&logo=ros&logoColor=86EFAC" /><br>
-<img src="https://img.shields.io/badge/MoveIt%202-052e16?style=for-the-badge&logo=moveit&logoColor=86EFAC" /><br>
-<img src="https://img.shields.io/badge/Nav2-052e16?style=for-the-badge&logo=ros&logoColor=86EFAC" /><br>
-<img src="https://img.shields.io/badge/Gazebo-052e16?style=for-the-badge&logo=gazebo&logoColor=86EFAC" /><br>
-<img src="https://img.shields.io/badge/RViz-052e16?style=for-the-badge&logo=ros&logoColor=86EFAC" /><br>
-<img src="https://img.shields.io/badge/YARP-052e16?style=for-the-badge&logo=robotframework&logoColor=86EFAC" />
+<img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/MoveIt%202-102A43?style=for-the-badge&logo=moveit&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Nav2-0A192F?style=for-the-badge&logo=ros&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Gazebo-242938?style=for-the-badge&logo=gazebo&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/RViz-4B5563?style=for-the-badge&logo=ros&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/YARP-111827?style=for-the-badge&logo=robotframework&logoColor=white" />
 </td>
 <td align="center">
-<img src="https://img.shields.io/badge/Linux-451a03?style=for-the-badge&logo=linux&logoColor=FCD34D" /><br>
-<img src="https://img.shields.io/badge/Git-450a0a?style=for-the-badge&logo=git&logoColor=FCA5A5" /><br>
-<img src="https://img.shields.io/badge/Docker-1e3a5f?style=for-the-badge&logo=docker&logoColor=93C5FD" /><br>
-<img src="https://img.shields.io/badge/CMake-1e3a5f?style=for-the-badge&logo=cmake&logoColor=93C5FD" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /><br>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/CMake-064F8C?style=for-the-badge&logo=cmake&logoColor=white" />
 </td>
 </tr>
 </table>
