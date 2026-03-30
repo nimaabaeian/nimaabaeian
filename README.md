@@ -2,7 +2,7 @@
 
 # N I M A &nbsp; A B A E I A N
 
-R O B O T I C S &nbsp; E N G I N E E R &nbsp; · &nbsp; P E R C E P T I O N - D R I V E N &nbsp; R O B O T I C &nbsp; S Y S T E M S
+A I - D R I V E N &nbsp; R O B O T I C &nbsp;
 
 <br>
 
