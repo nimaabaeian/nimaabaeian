@@ -2,7 +2,7 @@
 
 # N I M A &nbsp; A B A E I A N
 
-A I - D R I V E N &nbsp; R O B O T I C &nbsp;
+A I - D R I V E N &nbsp; R O B O T I C S &nbsp;
 
 <br>
 
@@ -52,7 +52,6 @@ T O O L S
 <img src="https://img.shields.io/badge/MoveIt%202-102A43?style=for-the-badge&logo=moveit&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Nav2-0A192F?style=for-the-badge&logo=ros&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Gazebo-242938?style=for-the-badge&logo=gazebo&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/RViz-4B5563?style=for-the-badge&logo=ros&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/YARP-111827?style=for-the-badge&logo=robotframework&logoColor=white" />
 </td>
 <td align="center">
