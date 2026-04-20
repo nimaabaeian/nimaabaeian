@@ -61,9 +61,9 @@ T O O L S &nbsp;&amp;&nbsp; D E V O P S
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
+  <img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/MoveIt%202-01539F?style=for-the-badge&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/YARP-111827?style=for-the-badge&logo=robotframework&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Gazebo-FF6600?style=for-the-badge&logo=ros&logoColor=white" />
 <img src="https://img.shields.io/badge/Isaac%20Sim-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/MuJoCo-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </td>
