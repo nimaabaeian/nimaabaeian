@@ -2,7 +2,7 @@
 
 # N I M A &nbsp; A B A E I A N
 
-A I / ML - E N G I N E E R &nbsp;
+A I / ML &nbsp; E N G I N E E R &nbsp;
 
 <br>
 
@@ -17,23 +17,19 @@ T E C H &nbsp; S T A C K
 
 <table>
 <tr>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/──────────────-2563EB?style=for-the-badge&label=&labelColor=2563EB" height="3"/><br>
 P R O G R A M M I N G
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/──────────────-DC2626?style=for-the-badge&label=&labelColor=DC2626" height="3"/><br>
-A I &nbsp;/&nbsp; M L &nbsp;&amp;&nbsp; C V
+M L &nbsp;&amp;&nbsp; C V
 </td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/──────────────-7C3AED?style=for-the-badge&label=&labelColor=7C3AED" height="3"/><br>
-L L M &nbsp;/&nbsp; V L M &nbsp;&amp;&nbsp; A I &nbsp; P L A T F O R M S
-</td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/──────────────-16A34A?style=for-the-badge&label=&labelColor=16A34A" height="3"/><br>
 R O B O T I C S &nbsp;&amp;&nbsp; S I M U L A T I O N
 </td>
-<td align="center" width="20%">
+<td align="center" width="25%">
 <img src="https://img.shields.io/badge/──────────────-D97706?style=for-the-badge&label=&labelColor=D97706" height="3"/><br>
 T O O L S &nbsp;&amp;&nbsp; D E V O P S
 </td>
@@ -50,15 +46,6 @@ T O O L S &nbsp;&amp;&nbsp; D E V O P S
 <img src="https://img.shields.io/badge/TensorRT-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/MediaPipe-4285F4?style=for-the-badge&logo=google&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</td>
-<td align="center">
-<img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
-<br>
-<img src="https://img.shields.io/badge/OpenRouter-111827?style=for-the-badge&logo=openai&logoColor=white" />
-<img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logo=groq&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
 </td>
 <td align="center">
 <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" />
@@ -73,7 +60,8 @@ T O O L S &nbsp;&amp;&nbsp; D E V O P S
 <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /><br>
 <img src="https://img.shields.io/badge/Claude%20Code-D97706?style=for-the-badge&logo=anthropic&logoColor=white" /><br>
-<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" />
+<img src="https://img.shields.io/badge/CUDA-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /><br>
+<img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
 </td>
 </tr>
 </table>
